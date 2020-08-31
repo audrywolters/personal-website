@@ -19,20 +19,21 @@ a:link {
     text-decoration: none;
 }
 
-#left {
-    width: 25%;
-    float: left;
-    text-align: right;
-    padding: 15em 2em 0 0;
-}
-
 #name {
     font-weight: bold;
     font-size: 1.25em;
 }
 
+#left {
+    width: 25%;
+    float: left;
+    text-align: right;
+    padding: 10em 3em 0 0;
+    margin-bottom: 100em;
+}
+
 #right {
-    padding: 15em 10em 0 0;
+    padding: 10em 15em 0 0;
 }
 a:link {
     text-decoration: none;
