@@ -2,7 +2,7 @@ body {
     margin: 0;
     background-color: #636363;
     font: 16px 'Avenir', 'Futura', sans-serif;
-    color: #a7a7a7;
+    color: #bdbdbd;
 }
 
 ul {
@@ -21,19 +21,19 @@ a:link {
 
 #name {
     font-weight: bold;
-    font-size: 1.25em;
+    font-size: 1.4em;
 }
 
 #left {
     width: 25%;
     float: left;
     text-align: right;
-    padding: 10em 3em 0 0;
+    padding: 8em 3em 0 0;
     margin-bottom: 100em;
 }
-
+ 
 #right {
-    padding: 10em 15em 0 0;
+    padding: 7.9em 15em 0 0;
 }
 a:link {
     text-decoration: none;
